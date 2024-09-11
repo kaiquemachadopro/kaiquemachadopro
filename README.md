@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi There!
 
-<!--
-**kaiquemachadopro/kaiquemachadopro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-machado-24108b236/)
+[![Instagram](https://img.shields.io/badge/Instagram-blue.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kaiquemachado.pro/)
 
-Here are some ideas to get you started:
+<img align="right" alt="Code Boy image" src="./codeBoy.jpg"  width="300px"/>
+<!-- Imagem Desenvolvida por / Freepik -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My name is Kaique Machado 👋
+
+<div style="display: inline_block">
+  <img align="center" alt="Kaique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kaique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kaique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
+
+<div aling="left">
+  
+  [![Kaique Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquemachadopro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>

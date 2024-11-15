@@ -3,9 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-machado-24108b236/)
 [![Instagram](https://img.shields.io/badge/Instagram-blue.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kaiquemachado.pro/)
 
-<img align="right" alt="Code Boy image" src="./codeBoy.jpg"  width="300px"/>
-<!-- Imagem Desenvolvida por / Freepik -->
-
 ## My name is Kaique Machado 👋
 
 <div style="display: inline_block">
